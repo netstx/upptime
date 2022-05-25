@@ -1,7 +1,7 @@
 [
   {
     "name": "AS394414",
-    "url": "https://www.as394414.net",
+    "url": "https://www.as394414.net/",
     "icon": "https://favicons.githubusercontent.com/www.as394414.net",
     "slug": "as-394414",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 186,
-    "timeWeek": 186,
-    "timeMonth": 186,
-    "timeYear": 186,
+    "time": 158,
+    "timeDay": 158,
+    "timeWeek": 158,
+    "timeMonth": 158,
+    "timeYear": 158,
     "dailyMinutesDown": {}
   },
   {
@@ -28,16 +28,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 364,
-    "timeDay": 364,
-    "timeWeek": 364,
-    "timeMonth": 364,
-    "timeYear": 364,
+    "time": 375,
+    "timeDay": 375,
+    "timeWeek": 375,
+    "timeMonth": 375,
+    "timeYear": 375,
     "dailyMinutesDown": {}
   },
   {
     "name": "Cloudflare",
-    "url": "https://1.1.1.1",
+    "url": "https://1.1.1.1/",
     "icon": "https://favicons.githubusercontent.com/1.1.1.1",
     "slug": "cloudflare",
     "status": "up",

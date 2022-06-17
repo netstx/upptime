@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/lg.as394414.net",
     "slug": "looking-glass",
     "status": "up",
-    "uptime": "81.69%",
+    "uptime": "81.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.69%",
-    "uptimeYear": "81.69%",
+    "uptimeMonth": "81.70%",
+    "uptimeYear": "81.70%",
     "time": 262,
     "timeDay": 236,
     "timeWeek": 238,
@@ -48,19 +48,19 @@
     "url": "https://1.1.1.1/",
     "icon": "https://favicons.githubusercontent.com/1.1.1.1",
     "slug": "cloudflare",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 50,
-    "timeDay": 55,
-    "timeWeek": 52,
+    "timeDay": 52,
+    "timeWeek": 51,
     "timeMonth": 50,
     "timeYear": 50,
     "dailyMinutesDown": {
-      "2022-06-17": 0
+      "2022-06-17": 14
     }
   }
 ]

@@ -26,7 +26,7 @@
     "uptime": "87.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.87%",
+    "uptimeMonth": "93.95%",
     "uptimeYear": "87.98%",
     "time": 252,
     "timeDay": 282,
@@ -49,17 +49,19 @@
     "url": "https://1.1.1.1/",
     "icon": "https://favicons.githubusercontent.com/1.1.1.1",
     "slug": "cloudflare",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 48,
     "timeDay": 31,
-    "timeWeek": 42,
-    "timeMonth": 50,
+    "timeWeek": 40,
+    "timeMonth": 49,
     "timeYear": 48,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
   }
 ]
